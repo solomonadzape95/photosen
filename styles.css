@@ -20,11 +20,11 @@ header {
   border: 2px solid white;
   .icon {
     font-size: 2rem;
-    /* background: red;
+    background: red;
     a {
       text-decoration: none;
       color: whitesmoke;
-    } */
+    }
   }
   .navbar {
     width: 35%;
